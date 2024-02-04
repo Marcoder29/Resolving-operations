@@ -1,0 +1,1 @@
+En este codigo resuelvo operaciones con distintas funciones, como enteros y decimales.
